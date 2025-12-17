@@ -1,0 +1,8 @@
+.zig-cache/
+zig-out/
+*.o
+
+# editor/IDE
+.direnv/
+.vscode/
+.idea/
